@@ -24,6 +24,7 @@ function deleteFromObjectByKey(object,key) {
 
 var food = new_value
 function deleteFromObjectByKey(object,key) {
+ return Object.assign({},object,{[key]:food})
   
 }
  
