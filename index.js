@@ -21,12 +21,18 @@ function deleteFromObjectByKey(object,key) {
   delete new_obj.key
   return object 
 }
+
+function deleteFromObjectByKey(object,key) {
+  
+}
  
 
 function destructivelyDeleteFromObjectByKey(object, key) {
  return delete object.key
   }
   
-function destructivelyDeleteFromObjectByKey(object, key)
+function destructivelyDeleteFromObjectByKey(object, key) {
+  
+}
  
  
