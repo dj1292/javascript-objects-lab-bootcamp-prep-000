@@ -22,6 +22,7 @@ function deleteFromObjectByKey(object,key) {
   return object 
 }
 
+var food = new_value
 function deleteFromObjectByKey(object,key) {
   
 }
